@@ -35,7 +35,7 @@ if choice == "1":
             print(f"Sending {packets} packets to {url}...")
             time.sleep(0.05)
         
-        print("\nBOOM! Attack finished. (This is a fake simulation)")
+        print("\nBOOM! Attack finished.")
     else:
         print("Invalid URL! Make sure it starts with http:// or https://")
 
@@ -60,3 +60,4 @@ elif choice == "3":
 
 else:
     print("Option not recognized!")
+
