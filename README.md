@@ -1,1 +1,1 @@
-Just for testing. Its a short projekt that i made.
+Just for testing. Its a short project that i made.
